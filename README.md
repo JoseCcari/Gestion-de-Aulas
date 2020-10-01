@@ -2,7 +2,7 @@
 
 ## :file_folder: Graficos
  
- !https://github.com/JoseCcari/Gestion-de-Aulas/blob/master/Gestion_SonarQube_Imagenes/Gestion.PNG)
+ !(https://github.com/JoseCcari/Gestion-de-Aulas/blob/master/Gestion_SonarQube_Imagenes/Gestion.PNG)
  
  !https://github.com/JoseCcari/Gestion-de-Aulas/blob/master/Gestion_SonarQube_Imagenes/Bugs.PNG)
  
